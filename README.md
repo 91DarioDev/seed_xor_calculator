@@ -20,5 +20,5 @@ I DON'T have any responsability of how you will use it and eventual money loss.
 
 Don't use this project for your actual wallet if you don't know what you are doing!!
 
-<u>Use it on a safe environment offline like tails OS **OFFLINE**</u>
+<ins>Use it on a safe environment offline like tails OS **OFFLINE**</ins>
 
