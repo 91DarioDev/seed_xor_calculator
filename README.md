@@ -2,7 +2,7 @@
 
 This project permits to calculate the XOR of 2 or more bip39 mnemonic seed phrase. This has a nice interactive interface and can calculate the xor seed of 12 or 24 words seeds. Seed XOR is a nice way to keep your bitcoin backup safe. 
 
-# How to use it
+## How to use it
 
 Just download the project, open a terminal and type:
 
