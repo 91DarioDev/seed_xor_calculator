@@ -15,6 +15,10 @@ The code is very minimal and simple so that can be reviewed. In order to avoid t
 ## Disclaimer:
 
 Use this project at your own risk.
+
 I DON'T have any responsability of how you will use it and eventual money loss.
+
 Don't use this project for your actual wallet if you don't know what you are doing!!
-Use it on a safe environment offline like tails OS **OFFLINE**
+
+<u>Use it on a safe environment offline like tails OS **OFFLINE**</u>
+
